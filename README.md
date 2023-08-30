@@ -9,7 +9,6 @@ This Android application fetches the current price of Bitcoin (BTC) in USD from 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Libraries Used](#libraries-used)
-- [License](#license)
 
 ## Introduction
 
